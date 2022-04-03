@@ -16,6 +16,7 @@
 * [Codepen.io](https://codepen.io/enxaneta/full/adLPwv) 
 ### JS Video İçerikli Eğitimler
 * [Patika - JS | Giriş](https://www.youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2)
+* [1 Videoda Javascript Dersleri ile Javascript Programlama için mükemmel bir başlangıç yapın!](https://www.youtube.com/watch?v=hHwxdPIUUBo)
 * [Arin Yazılım - Uygulamalı Javascript Dersleri](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD)
 * [Arin Yazılım - JavaScript Karmaşası  ](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-lamHDwl1J1oI4nwCYYW30)
 * [freeCodeCamp.org - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
