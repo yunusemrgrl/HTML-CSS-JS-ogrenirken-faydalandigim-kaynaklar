@@ -19,9 +19,11 @@
 * [Arin Yazılım - Uygulamalı Javascript Dersleri](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD)
 * [Arin Yazılım - JavaScript Karmaşası  ](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-lamHDwl1J1oI4nwCYYW30)
 * [freeCodeCamp.org - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
+* [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=4)
+
 
 
 ### Yazılı Kaynaklar 
 * [Developer Mozilla - JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-* [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=4)
+
 
