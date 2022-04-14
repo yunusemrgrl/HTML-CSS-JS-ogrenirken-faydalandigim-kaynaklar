@@ -13,7 +13,8 @@
 * [Developer Mozilla - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Tricks - 1](https://css-tricks.com/snippets/css/)
 * [CSS Tricks - 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Codepen.io](https://codepen.io/enxaneta/full/adLPwv) 
+* [Codepen.io](https://codepen.io/enxaneta/full/adLPwv)
+* [@erayusta Güzel bir twitter flood](https://twitter.com/erayusta/status/1504395328149151746?s=20&t=5LdqHjc9o0l5OGEgl9fz5A) 
 ### JS Video İçerikli Eğitimler
 * [Patika - JS | Giriş](https://www.youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2)
 * [1 Videoda Javascript Dersleri ile Javascript Programlama için mükemmel bir başlangıç yapın!](https://www.youtube.com/watch?v=hHwxdPIUUBo)
