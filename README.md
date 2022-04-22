@@ -26,6 +26,6 @@
 
 
 ### Yazılı Kaynaklar 
-* [Developer Mozilla - JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+* [GeeksforGeeks  - JavaScript ](https://www.geeksforgeeks.org/javascript/?ref=ghm)
 
 
